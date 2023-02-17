@@ -9,3 +9,5 @@ range - one or more row/coloumn.
 
 Absolute referencing
  - Absolute referencing is marked by a dollar sign ($). For example, =$A$10 has absolute referencing for both the column and the row value
+ 
+(REFER to daily log file course 2 week II)
