@@ -1,0 +1,11 @@
+FORMULAS IN SPREADSHEET (google sheet)
+# Basic calculations like sum, sub, mul and divide and little bit for math formulas
+# Formula starts with "=" sign 
+Cell refernce - coloumn letter and row number
+range - one or more row/coloumn.
+
+# By changing the values in observation, value in the formula will also update automatically.#
+#  Formulas make it easy for data analysts to do powerful calculations automatically, which helps them analyze data more effectively.
+
+Absolute referencing
+ - Absolute referencing is marked by a dollar sign ($). For example, =$A$10 has absolute referencing for both the column and the row value
