@@ -1,0 +1,16 @@
+#DIV/0 - Formula trying to divide a value by 0 or empty cell. To fix this problem we can use =iferror() function
+
+#ERROR! - Formula can't be interpreted as input. Also call parsing error. Only in Google sheet. Can be fix by delimiter (,) depending on the formula you might use.
+
+#N/A - Data in the formula not found in sheet. Means data doesn't exist. This can be solve using =VLOOKUP() function.
+
+#NAME? - Formula or function not recognized or isn't understood. Fix the error by typing correct spelling of formula or funciton.
+
+#NUM! - Formula or function can't perform as specified. Can be slove by inputing correct data.
+
+#VALUE! - There's something wrong with the way your formula is typed. Or, there's something wrong with the cells you are referencing. Put correct data.
+
+#REF! - when a formula refers to a cell that's not valid.
+
+(Refer to daily log, course 2, week III folder)
+         
