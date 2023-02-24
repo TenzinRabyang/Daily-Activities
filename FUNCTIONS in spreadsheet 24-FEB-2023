@@ -6,3 +6,9 @@ FUNCTIONS 101
 =COUNT()
 =MIN()
 =MAX()
+
+COUNTIF is an example of a function that returns a value based on a 
+condition that the data range is evaluated for. The function counts the 
+number of cells that meet the criteria. For example, in an expense 
+spreadsheet, use COUNTIF to count the number of cells that contain 
+a reimbursement for "airfare."
