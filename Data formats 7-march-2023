@@ -1,0 +1,24 @@
+DATA FORMATS
+- Quantitative and qualitative 
+- Discrete and Continues data
+- Nominal and ordinal data
+- Internal and external data
+- Structure and unstructured data
+- secondary and primary data
+
+Understanding Structure data
+- structure data works nicely within data models.
+- Data model is a model used for organizing data element and how they relate to each other.
+- Data element are pieces of information like name, numbers and adresses.
+
+Data modeling
+- it is process to create diagram that represent how data is organize and structure which are called data model.
+
+Types of data modeling.
+- Conceptual
+- logical
+- physical 
+
+DATA modeling Techniques
+- Entity relationship Diagram (ERD)
+- Unified Modeling Diagram (UML)
