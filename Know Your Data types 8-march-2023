@@ -13,3 +13,24 @@ Table Component
  - Rows -> Records
  - Coloumn -> Fields
  
+WIDE DATA: Every data subject has a single row with multiple columns to hold the values of various attributes of the subjects.
+
+LONG DATA: Each row is one time point per subject and each subject will have data in multiple rows.
+
+DATA TRANSFORMATION:
+- It is aprocess of changing data formats, types, structure and values.
+- It usaully involves: 
+   - Adding, copying, replication
+   - Deleting
+   - Standardizing the names
+   - Renaming, moving, combining
+   - Joining data sets
+   - Saving file in different format
+   
+WHY DATA TRANSFORM?
+- Organizing
+- compatibility
+- migration
+- merging
+- enhancement
+- comparison
