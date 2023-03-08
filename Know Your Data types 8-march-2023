@@ -1,0 +1,15 @@
+Data Types in spreadsheet
+- Number
+- Text/string
+- boolean
+
+BOOLEAN OPERATOR
+- AND/OR/NOT
+
+Boolean Multiple conditions
+- Example: IF((Color="Gery") OR (Color="pink")) AND (waterproof = "TRUE")
+
+Table Component
+ - Rows -> Records
+ - Coloumn -> Fields
+ 
