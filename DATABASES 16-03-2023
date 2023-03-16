@@ -1,0 +1,15 @@
+Database - collection of data in computer system
+
+Meta Data - Data about data
+
+Relational Database -  A DB that contains a series of related tables that can be connected via their relationships 
+
+- Primary key - An identifire that reference a column in which each value is unique 
+
+Foreign key - A field within a table that is primary key in another table.
+
+Database Normalization - It is a process of organizing data in relational database.
+
+Some table dosn't have primary key.
+
+Inspecting Dataset - This will help you pinpoint what question are answerable and what data is missing.
